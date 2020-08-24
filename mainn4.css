@@ -1,0 +1,83 @@
+ 
+.display {
+    display: inline-block;
+}
+ 
+ .block-red {
+    background-color: red;
+    border: 1px black;
+    width: 100%;
+}
+
+ .block-1 {
+    width: 30%;
+    padding: 5px 5px 5px 5px;
+}
+
+.border {
+    border: 1px solid black;
+    padding: 1px 1px 1px 1px;
+}
+
+.border-logo {
+    border: 1px solid black;
+    padding: 1px 1px 1px 1px;
+    border-radius:  5px 5px 5px 5px;
+    margin-right: 250px; 
+}
+
+.item {
+    border: 1px solid black;
+}
+
+.border-item {
+    border: 1px solid black;
+    padding: 3px 1px 3px 1px;
+    margin-left: 2px;
+    width: 68%;
+}
+
+.block-yellow {
+    background-color: yellow;
+    border: 1px;
+    padding: 10px 0px 10px 0px; 
+}
+
+.yel-left {
+    border: 1px solid black;
+    border-radius:  5px 0px 0px 5px;
+    margin: 0px 0px 0px 3px;
+    width: 30%;
+    height: 320px; 
+}
+
+ .yel-right {
+    border: 1px solid black;
+    width: 68%;
+    height: 300px;
+    border-radius:  0px 5px 5px 0px;
+    margin: 0px 0px 0px 3px;
+}
+
+ .block-green {
+    background-color: greenyellow;
+    border: 1px;
+    padding: 5px 0px 10px 0px;
+}
+
+.green-left {
+    border: 1px solid black;
+    padding: 50px 10px 10px 10px;
+    border-radius:  5px 0px 0px 5px;
+    margin: 5px 0px 0px 3px;
+    width: 28%; 
+    height: 5px;
+}
+
+.green-right {
+    border: 1px solid black;
+    width: 69%;
+    height: 50px;
+    border-radius:  0px 5px 5px 0px;
+    margin: 0px 0px 0px 3px;
+}
