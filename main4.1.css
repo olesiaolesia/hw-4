@@ -1,0 +1,165 @@
+.display {
+    display: inline-block;
+}
+
+.border-main {
+    border: 2px solid green;
+    height: 500px;
+    width: 50%;
+    margin-left: 200px;
+}
+
+.block-1 {
+    border: 2px solid red;
+    height: 70px;
+    margin: 5px 5px 5px 5px;
+}
+
+ .blue-left-1 {
+    border: 2px solid blue;
+    height: 80%;
+    width: 18%;
+    margin: 5px -3px 5px 5px;
+}
+
+.bleu-center-1 {
+    border: 2px solid blue;
+    height: 80%;
+    width: 58%;
+    margin: 5px -3px 5px 0px;
+}
+
+.bleu-right-1 {
+    border: 2px solid blue;
+    height: 80%;
+    width: 19%;
+    margin: 5px 5px 5px 0px;
+    padding-right: 2px;
+}
+
+.menu-yellow-1 {
+    border: 2px solid yellow;
+    width: 85%;
+    height: 30%;
+    margin: 5px 5px 5px 5px;
+}
+.menu-yellow-2 {
+    border: 2px solid yellow;
+    width: 85%;
+    height: 30%;
+    margin: 5px 5px 5px 5px;
+}
+
+.block-2 {
+    border: 2px solid red;
+    height: 30px;
+    width: 93%;
+    margin-left: 5px;
+}
+
+.blue-1 {
+    border: 2px solid blue;
+    height: 20px;
+    width: 17%;
+    margin: 2px 3px 2px 2px;
+}
+
+.blue-2 {
+    border: 2px solid blue;
+    height: 20px;
+    width: 25%;
+    margin: 2px 3px 2px 3px;  
+}
+
+.blue-3 {
+    border: 2px solid blue;
+    height: 20px;
+    width: 25%;
+    margin: 2px 2px 2px 3px;  
+}
+
+.blue-4 {
+    border: 2px solid blue;
+    height: 20px;
+    width: 23%;
+    margin: 2px 0px 2px 3px;  
+}
+
+.block-3 {
+    border: 2px solid red;
+    height: 250px;
+    width: 96%;
+    margin-left: 5px;
+    margin-top: 6px;
+}
+
+.blue-left-2 {
+    border: 2px solid blue;
+    height: 240px;
+    width: 30%;
+    margin: 3px;
+}
+
+.blue-right-2 {
+    border: 2px solid blue;
+    height: 240px;
+    width: 64%;
+    margin: 3px 10px 3px -5px;
+    padding-right: 6px;
+}
+
+.menu-big {
+    border: 2px solid yellow;
+    height: 190px;
+    width: 96%;
+    margin: 10px 5px 5px 10px;
+}
+
+.menu-small {
+    border: 2px solid yellow;
+    height: 20px;
+    width: 96%;
+    margin: 5px 5px 5px 10px;
+}
+
+.block-4 {
+    border: 2px solid red;
+    height: 108px;
+    margin: 5px 5px 5px 5px;
+}
+
+.blue-left-4 {
+    border: 2px solid blue;
+    height: 95px;
+    width: 33%;
+    margin: 3px;
+    padding: 2px;
+}
+
+.menu-1 {
+    border: 2px solid yellow;
+    width: 92%;
+    height: 36%;
+    margin: 4px 5px 4px 5px;
+}
+
+.menu-2 {
+    border: 2px solid yellow;
+    width: 92%;
+    height: 36%;
+    margin: 5px 5px 2px 5px;
+}
+
+.blue-center-4 {
+    border: 2px solid blue;
+    height: 95px;
+    width: 40%;
+    margin: 5px 5px 5px -5px;
+}
+
+.blue-right-4 {
+    border: 2px solid blue;
+    height: 95px;
+    width: 21%;
+    margin: 5px 4px 5px -7px;
+}
